@@ -27,9 +27,9 @@ the generic algorithm described below:
 To build the application, install [Apache maven](http://maven.apache.org/) build tool and [java 8](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html) or higher
 - Clone this repository
 ````bash
-git clone https://github.com/thesolwind/rpn-calculator
+git clone https://github.com/thesolwind/cli-rpn-calculator
 ````
-- Go to the rpn-calculator folder and build jar file
+- Go to the cli-rpn-calculator folder and build jar file
 ````bash
 mvn package
 ````
